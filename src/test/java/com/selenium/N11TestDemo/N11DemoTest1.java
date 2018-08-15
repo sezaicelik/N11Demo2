@@ -30,28 +30,28 @@ public class N11DemoTest1 {
 		driver.get("https://www.n11.com/");
 		//driver.navigate().to("https://www.n11.com/");
 		
-		Assert.assertEquals("n11.com - Alışverişin Uğurlu Adresi", driver.getTitle());
+		//Assert.assertEquals("n11.com - Alışverişin Uğurlu Adresi", driver.getTitle());
 		
-		//login
+/*		//login
 		driver.findElement(By.cssSelector(".btnSignIn")).click();
 		driver.findElement(By.id("email")).sendKeys("sezai.celik@hotmail.com");
 		driver.findElement(By.id("password")).sendKeys("456852sc");
 		driver.findElement(By.id("loginButton")).click();
-		
+
 		//Search
 		driver.findElement(By.id("searchData")).clear();
 		driver.findElement(By.id("searchData")).sendKeys("Samsung Galaxy S8");
 		driver.findElement(By.cssSelector(".iconSearch")).click();
-	
+
 		//Search product
 		driver.findElement(By.xpath(".//*[@id='p-190720779']/div[1]/a/h3")).click();
-		
+
         //Select color
-        Select droplist = new Select(driver.findElement(By.id("458405953")));   
+        Select droplist = new Select(driver.findElement(By.id("458405953")));
         droplist.selectByVisibleText("MIDNIGHT BLACK");
-        
+
         //Add to basket
-        driver.findElement(By.cssSelector(".btn.btnGrey.btnAddBasket")).click();
+        driver.findElement(By.cssSelector(".btn.btnGrey.btnAddBasket")).click();*/
                
 	}
 
