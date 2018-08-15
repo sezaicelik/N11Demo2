@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73bc8e85-fedb-4dc8-8554-48a0c2149d3c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2018-08-15T14-29-58_512.dumpstream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test1.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.selenium.N11TestDemo.N11DemoTest1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/Test1.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/classes.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/groups.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/main.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-not-run.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/reporter-output.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/testng.xml.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/toc.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterPath="" />
-    </list>
+    <list default="true" id="73bc8e85-fedb-4dc8-8554-48a0c2149d3c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
