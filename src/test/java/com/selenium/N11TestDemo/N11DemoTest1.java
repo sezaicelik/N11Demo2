@@ -35,7 +35,7 @@ public class N11DemoTest1 {
 /*		//login
 		driver.findElement(By.cssSelector(".btnSignIn")).click();
 		driver.findElement(By.id("email")).sendKeys("sezai.celik@hotmail.com");
-		driver.findElement(By.id("password")).sendKeys("456852sc");
+		driver.findElement(By.id("password")).sendKeys("****");
 		driver.findElement(By.id("loginButton")).click();
 
 		//Search
